@@ -71,14 +71,10 @@ Provides elevation data representing terrain characteristics such as height, slo
 ### 2.5 Land Use / Land Cover (LULC)
 
 **Link:**
-- https://bhuvan.nrsc.gov.in
+- https://swat.tamu.edu/data/india-dataset/
 
 **Description:**  
 Classifies land into categories such as urban, agricultural, forest, and water bodies.
-
-**Key Attributes:**
-- Land use category
-- Raster grid format
 
 **Usage in Project:**
 - Used to estimate runoff characteristics
